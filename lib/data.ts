@@ -26,7 +26,7 @@ export type WebNavigationDetailData = {
 export const dataList: WebNavigationListRow[] = [
   {
     id: '1792434701288771585',
-    name: 'woy-ai',
+    name: 'woy-ai00',
     title: 'Woy AI Tools Directory',
     content: 'Discover the top AI tools of 2024 with the Woy.ai AI Directory!',
     url: 'https://woy.ai',
